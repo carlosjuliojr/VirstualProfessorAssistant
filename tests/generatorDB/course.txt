@@ -1,0 +1,8 @@
+1,matematicas
+2,fisica
+3,ipq
+4,quimica
+5,calculo1
+6,msf
+7,procesos
+8,sistemas

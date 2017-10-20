@@ -1,0 +1,8 @@
+1,1,grabe dictadura,10
+2,1,grabe dictadura,20
+3,2,grabe dictadura,30
+4,2,grabe dictadura,40
+5,2,grabe dictadura,50
+6,4,grabe dictadura,60
+7,3,grabe dictadura,70
+8,3,grabe dictadura,80

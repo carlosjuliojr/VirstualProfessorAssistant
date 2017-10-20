@@ -1,0 +1,21 @@
+EL ORDEN DE LOS DATOS DE LOS ARCHIVOS .TXT ES EL MISMO DEL ORDEN DE DATABASESTRUCTS.H
+
+PARA EL ARCHIVO persona.txt
+
+nombre,apellido,direccion,correoElectronico,cedula,fechaDeNAcimiento
+julio,jaimes,Resi Salazar,carlosjuliojr@hot,230452,1992:09:12
+
+Para el archivo account.txt
+
+numCuenta,idCedula,tipoDeCuenta,MontoTotal,montoDiferido,nroTransactions
+122222222,230452,0,20000,10000,1
+
+Para el archivo cards.txt
+
+iDCedula,iDCuenta,numeroTarjeta,CodigoTarjeta,PinTarjeta,TipoTarjeta,FechaCreacion,FechaVencimiento
+230452,12222222,1,121212,33333,0,2016:08:25,2017:09:25
+
+Para el archivo transactions.txt
+
+fechaTransaction,Descripcion,Referencia,montoMovimiento,TotalEnCuenta,IdNumeroDeCuenta
+2016:10:07,pago condominio,1,10000,1000,1222222
